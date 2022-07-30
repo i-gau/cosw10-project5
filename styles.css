@@ -13,9 +13,12 @@
 .navbar {
     overflow: hidden;
     position: fixed;
-    z-index: 1;
+    z-index: 2;
     top: 0;
     width: 100%;
+    background-color: black;
+    opacity: 30%;
+    font-size: 30px;
 }
 .navbar a {
     padding: 20px;
@@ -23,15 +26,15 @@
 }
 .sidebar {
     height: 100%;
-    width: 400px;
+    width: 500px;
     position: fixed;
     z-index: 1;
     top: 0;
     right: 0;
     background-color: black;
-    opacity: 2300%;
+    opacity: 30%;
     overflow: auto;
-    padding-top: 60px;
+    padding-top: 80px;
 }
 .sidebar a {
     padding: 16px;
@@ -48,4 +51,6 @@
 }
 body {
     margin: 0;
+    margin-left: 30px;
+    margin-right: 520px;
 }
