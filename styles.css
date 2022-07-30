@@ -21,6 +21,31 @@
     padding: 20px;
     
 }
+.sidebar {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: black;
+    opacity: 20%;
+    overflow: hidden;
+    padding-top: 60px;
+}
+.sidebar a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    display: block;
+}
+.cityhead {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 50px;
+
+}
 body {
     margin: 0;
 }
