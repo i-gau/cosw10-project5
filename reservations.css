@@ -1,1 +1,38 @@
-* {}
+* {
+    box-sizing: border-box;
+ 
+}
+#bgvid {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    z-index: 2;
+    top: 0;
+    width: 100%;
+    background-color: black;
+    opacity: 80%;
+    font-size: 30px;
+}
+.reserve {
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    font-size: 50px;
+    margin-top: 50px;
+}
+body {
+    margin: 0;
+    margin-right: 30px;
+    padding-left: 30px;
+    padding-top: 200px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 28px;
+    color: white;
+    text-shadow: 1px 1px 10px black;
+}
