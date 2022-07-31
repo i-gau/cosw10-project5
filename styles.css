@@ -79,7 +79,6 @@ img {
     
 }
 .column {
-    float: left;
-    width: 50%;
+    column-count: 2;
     word-wrap: normal;
 }
