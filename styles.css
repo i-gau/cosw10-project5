@@ -43,6 +43,7 @@
 }
 .sidebar a {
     padding: 20px;
+    padding-bottom: 15px;
     text-decoration: none;
     text-align: center;
     font-size: 30px;
