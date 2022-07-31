@@ -96,10 +96,10 @@ img {
 #attact {
     margin-bottom: 200px;
 }
-table tr td {
+table, th, td {
     text-align: center;
     padding: 10px;
     width: 50%;
-    border-collapse: collapse;
     border: 2px solid white;
+    border-collapse: collapse;
 }
