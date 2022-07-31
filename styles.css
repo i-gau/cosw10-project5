@@ -46,6 +46,7 @@
     padding-bottom: 15px;
     text-decoration: none;
     text-align: center;
+    overflow: auto;
     font-size: 30px;
     color: white;
     display: block;
