@@ -33,6 +33,13 @@
     font-size: 50px;
     margin-top: 50px;
 }
+.reserve-form {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    background-color: transparent;
+}
 body {
     margin: 0;
     margin-right: auto;
@@ -42,11 +49,4 @@ body {
     font-size: 28px;
     color: white;
     text-shadow: 1px 1px 10px black;
-}
-.reserve-form {
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: left;
-    background-color: transparent;
 }
