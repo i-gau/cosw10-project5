@@ -33,20 +33,20 @@
     font-size: 50px;
     margin-top: 50px;
 }
-.reserve-form {
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: left;
-    background-color: transparent;
+
 }
 body {
     margin: 0;
-    margin-right: auto;
-    margin-left: auto;
+    margin-left: 800px;
     padding-top: 200px;
     font-family: 'Oswald', sans-serif;
     font-size: 28px;
     color: white;
     text-shadow: 1px 1px 10px black;
 }
+.reserve-form {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    background-color: transparent;
