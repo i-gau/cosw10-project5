@@ -78,9 +78,8 @@ img {
     margin-right: auto;
     
 }
-#attract {
+.column {
     float: left;
     width: 50%;
     word-wrap: normal;
-    padding: 20px;
 }
