@@ -33,8 +33,6 @@
     font-size: 50px;
     margin-top: 50px;
 }
-
-}
 body {
     margin: 0;
     margin-left: 800px;
@@ -50,3 +48,4 @@ body {
     margin-right: auto;
     text-align: left;
     background-color: transparent;
+}
