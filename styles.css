@@ -35,7 +35,7 @@
     opacity: 80%;
     overflow: auto;
     padding-top: 80px;
-    margin-top: 35px;
+    margin-top: 40px;
     text-align: center;
 }
 .sidebar a {
@@ -59,14 +59,16 @@ body {
     padding-top: 200px;
     font-family: 'Oswald', sans-serif;
     font-size: 26px;
-    color: w;
+    color: white;
 
 }
 h1 {
     font-family: 'Kanit', sans-serif;
     font-size: 100px;
 }
-
+h2 {
+    color: white;
+}
 img {
     display: block;
     margin-left: auto;
