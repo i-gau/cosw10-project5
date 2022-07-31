@@ -43,3 +43,8 @@ body {
     color: white;
     text-shadow: 1px 1px 10px black;
 }
+.reserve-form {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
