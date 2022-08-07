@@ -80,8 +80,7 @@ h3 {
     text-align: center;
 }
 .content {
-    padding-left: 50px !important;
-    padding-right: 50px !important;
+    text-align: center !important;
 }
 img {
     display: block;
