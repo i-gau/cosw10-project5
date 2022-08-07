@@ -43,9 +43,9 @@
                     <option value="46-55">46-55</option>
                     <option value="56+">56+</option>
                 </select><br>
-                <label for="sdate">Start Date:</label><input type="sdate" id="sdate" placeholder="dd-mmm-yyyy" name="sdate"><br>
-                <label for="edate">End Date:</label><input type="edate" id="edate" placeholder="dd-mmm-yyyy" name="edate"><br>
-                <label for="guest">Total Guest (1-8):</label><input type="text" id="guest" min="1" max="8" size="1" value=""><br>
+                <label for="sdate">Start Date:</label><input type="sdate" id="sdate" placeholder="dd-mmm-yyyy" minlength="11" maxlength="11" name="sdate"><br>
+                <label for="edate">End Date:</label><input type="edate" id="edate" placeholder="dd-mmm-yyyy" minlength="11" maxlength="11" name="edate"><br>
+                <label for="guest">Total Guest (1-8):</label><input type="text" id="guest" min="1" max="8"  maxlength="1" size="1" value=""><br><br>
                 <textarea rows="6" cols="40" name="comment">Additional information here...</textarea><br>
                 <input type="submit" value="Submit">
             </form>
