@@ -94,6 +94,7 @@ img {
     word-wrap: normal;
     column-gap: 40px;
     column-rule: solid white;
+    padding-left: 40px !important;
 }
 #history {
     margin-bottom: 200px;
